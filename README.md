@@ -26,10 +26,10 @@ Whether you're just getting started with Linux or building out your DevOps skill
 
 ## 📁 Repositories in This Collection
 
-| Book Title | Repository | Description |
-|------------|------------|-------------|
-| **Mastering Linux** | [`mastering-linux`](https://github.com/dargslan/mastering-linux) | Hands-on examples of system management, permissions, networking |
-| **PowerShell Automation Toolkit** | [`powershell-automation`](https://github.com/dargslan/powershell-automation) | Cross-platform scripts for sysadmin tasks and remote management |
+| Book Title | Repository | Description | Collections |
+|------------|------------|-------------|-------------|
+| **Mastering Linux** | [`mastering-linux`](https://github.com/dargslan/mastering-linux) | Hands-on examples of system management, permissions, networking | **PowerShell Books [`PowerShell Books`]([https://dargslan.com/](https://dargslan.com/category/powershell)) |
+| **PowerShell Automation Toolkit** | [`powershell-automation`](https://github.com/dargslan/powershell-automation) | Cross-platform scripts for sysadmin tasks and remote management | [`Linux Books`]([https://dargslan.com/](https://dargslan.com/category/linux)) |
 
 Each repository contains:
 - Sample scripts (`.sh`, `.ps1`)
